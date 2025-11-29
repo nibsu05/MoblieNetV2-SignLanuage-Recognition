@@ -25,7 +25,7 @@ Bộ dữ liệu mẫu đã được xử lý và đóng gói. Bạn có thể t
 *Các mẫu ảnh tay đã được cắt và xóa nền.*
 
 ### 3. Phân phối dữ liệu
-![Class Distribution](results/data_train_class_distribution.png)
+![Class Distribution](results/class_distribution.png)
 *Phân phối số lượng ảnh giữa các lớp trong tập huấn luyện.*
 
 ### 4. Quá trình huấn luyện (MobileNetV2)
@@ -69,6 +69,7 @@ Bộ dữ liệu mẫu đã được xử lý và đóng gói. Bạn có thể t
 ### 5. Khác
 - **`check_gpu.py`**: Kiểm tra PyTorch có nhận GPU (CUDA) không.
 - **`requirements.txt`**: Danh sách các thư viện cần thiết.
+
 
 
 
