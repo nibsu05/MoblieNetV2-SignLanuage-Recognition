@@ -29,7 +29,7 @@ Bộ dữ liệu mẫu đã được xử lý và đóng gói. Bạn có thể t
 *Phân phối số lượng ảnh giữa các lớp trong tập huấn luyện.*
 
 ### 4. Quá trình huấn luyện (MobileNetV2)
-![Training Plot](results/moblienetv2_training_plot.png)
+![Training Plot](results/mobilenetv2_training_plot.png)
 *Biểu đồ Loss và Accuracy qua các Epochs.*
 
 ### 5. Đánh giá trên tập Test
@@ -69,6 +69,7 @@ Bộ dữ liệu mẫu đã được xử lý và đóng gói. Bạn có thể t
 ### 5. Khác
 - **`check_gpu.py`**: Kiểm tra PyTorch có nhận GPU (CUDA) không.
 - **`requirements.txt`**: Danh sách các thư viện cần thiết.
+
 
 
 
